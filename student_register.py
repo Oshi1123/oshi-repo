@@ -1,5 +1,5 @@
 # student_register.py
-def register_students():
+def reg_students():
     # Ask how many students are registering
     num_students = int(input("How many students are registering? "))
 
@@ -17,4 +17,4 @@ def register_students():
 
 # Run the function
 if __name__ == "__main__":
-    register_students()
+    reg_students()
