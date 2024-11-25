@@ -13,8 +13,8 @@ def reg_students():
             file.write(f"Student ID: {student_id}\n")
             file.write("...............................................\n")
 
-    print(f"Registration complete. {num_students} students have been registered.")
+    print(f"Registration complete. {num_students} students have been registered.") #Command to print the code output
 
 # Run the function
 if __name__ == "__main__":
-    reg_students()
+    reg_students() #Command to run the function
